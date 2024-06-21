@@ -19,6 +19,7 @@
     "lodash": "^4.17.21",
     "next": "^10.0.3",
     "next-redux-wrapper": "^6.0.2",
+    "postcss": "^8.4.38",
     "rc-slider": "^9.3.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
